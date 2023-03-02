@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&amp;display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&amp;display=swap');
+
 body {
     font-family: 'Nunito', sans-serif;
     font-size: 14px;
@@ -137,9 +138,11 @@ li {
     .banner {
         padding: 80px 0;
     }
+
     .banner h1 {
         font-size: 44px;
     }
+
     .banner h2 {
         font-size: 26px;
     }
@@ -149,16 +152,20 @@ li {
     .banner {
         padding: 60px 0;
     }
+
     .banner h1 {
         font-size: 30px;
     }
+
     .banner h2 {
         font-size: 20px;
     }
+
     .banner .btn {
         width: 260px;
         font-size: 30px;
     }
+
     .banner .btn-outer .arrow {
         display: none;
     }
@@ -281,6 +288,7 @@ li {
     .guarant-section {
         padding: 80px 0;
     }
+
     .guarant-section .satisfied h2 {
         font-size: 48px;
     }
@@ -290,24 +298,31 @@ li {
     .guarant-section {
         padding: 60px 0;
     }
+
     .guarant-section .btn-outer .arrow {
         display: none;
     }
+
     .btn-outer .btn-container {
         padding: 0 0;
     }
+
     .guarant-section .wrapper {
         padding: 0 0;
     }
+
     .guarant-section .btn {
         font-size: 20px;
     }
+
     .guarant-section .satisfied h2 {
         font-size: 34px;
     }
+
     .guarant-section .satisfied p {
         font-size: 18px;
     }
+
     .guarant-section .satisfied {
         padding: 15px 15px;
     }
@@ -375,10 +390,12 @@ li {
     .rate-us .title h2 {
         font-size: 38px;
     }
+
     .rate-us .title p {
         font-size: 18px;
         padding: 0 10px;
     }
+
     .rate-us .title h3 {
         font-size: 45px;
     }
@@ -388,12 +405,15 @@ li {
     .rate-us {
         padding: 40px 0;
     }
+
     .rate-us .title h2 {
         font-size: 32px;
     }
+
     .rate-us .title h3 {
         font-size: 35px;
     }
+
     .rate-us li img {
         max-width: 22px;
     }
@@ -506,10 +526,12 @@ footer p {
     .features_Section .title h2 {
         font-size: 38px;
     }
+
     .features_Section .title p {
         font-size: 18px;
         padding: 0 50px;
     }
+
     .features_Section ul li h2 {
         font-size: 17px;
     }
@@ -519,15 +541,19 @@ footer p {
     .features_Section .title {
         padding: 0 30px;
     }
+
     .features_Section .title h2 {
         font-size: 30px;
     }
+
     .features_Section .title p {
         padding: 0;
     }
+
     .features_Section ul li {
         width: 50%;
     }
+
     .features_Section {
         padding-bottom: 30px;
         padding-top: 55px;
@@ -538,15 +564,19 @@ footer p {
     .features_Section .title {
         padding: 0;
     }
+
     .features_Section .title h2 {
         font-size: 28px;
     }
+
     .features_Section .title h2::after {
         width: 220px;
     }
+
     .features_Section ul {
         margin-top: 35px;
     }
+
     .features_Section ul li {
         width: 100%;
     }
@@ -655,11 +685,15 @@ footer p {
     margin: 0;
     padding: 0;
 }
-
+.color{
+    font-weight: bolder;
+    color: #ff1100;
+}
 @media only screen and (max-width: 1600px) {
     .our-products .layout {
         padding: 0 120px;
     }
+
     .demo_title {
         font-size: 80px;
     }
@@ -669,6 +703,7 @@ footer p {
     .our-products .layout {
         padding: 0 100px;
     }
+
     .demo_title {
         font-size: 75px;
     }
@@ -678,6 +713,7 @@ footer p {
     .our-products .layout {
         padding: 0 60px;
     }
+
     .demo_title {
         font-size: 65px;
     }
@@ -695,9 +731,11 @@ footer p {
         padding-top: 60px;
         padding-bottom: 10px;
     }
+
     .our-products .layout {
         padding: 0 15px;
     }
+
     .demo_title {
         transform: rotate(0);
         top: 35px;
@@ -705,18 +743,23 @@ footer p {
         margin-left: -55px;
         font-size: 28px;
     }
+
     .products .title h2 {
         font-size: 28px;
     }
+
     .products .title p {
         font-size: 18px;
     }
+
     .products ul li h3 {
         font-size: 20px;
     }
+
     .products ul li {
         width: 100%;
     }
+
     .product-box {
         width: 100%;
         max-width: 320px;
